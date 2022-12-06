@@ -1,82 +1,128 @@
 [
   {
     "id": 1,
-    "image": "img/1.jpg",
-    "name": "Vestido de abrigo de mujer, negro",
-    "starCount": "2,548",
-    "price": 350.99,
-    "priceBefore": 389.99,
-    "sold": "2975 vendidos",
-    "deliveryStatus": "Envio gratis"
+    "image": "img/1.webp",
+    "name": "HYPNOTIC",
+    "description": "Polo Hypnotic Hombre",
+    "price": 29.95
   },
   {
     "id": 2,
-    "image": "img/2.jpg",
-    "name": "Zapatlos con cordones para hombre",
-    "starCount": "2,548",
-    "price": 320.99,
-    "priceBefore": 350.99,
-    "sold": "2975 vendidos",
-    "deliveryStatus": "Envio gratis"
+    "image": "img/2.webp",
+    "name": "MALABAR",
+    "description": "Polo Hypnotic Hombre",
+    "price": 39.95
   },
   {
     "id": 3,
-    "image": "img/3.jpg",
-    "name": "Hombres de negro",
-    "starCount": "1,955",
-    "price": 150.99,
-    "priceBefore": 189.99,
-    "sold": "2584 vendidos",
-    "deliveryStatus": "Envio gratis"
+    "image": "img/3.webp",
+    "name": "AMC",
+    "description": "Polo Hypnotic Hombre",
+    "price": 49.95
   },
   {
     "id": 4,
-    "image": "img/4.jpg",
-    "name": "Suéter con capucha de punto ligero",
-    "starCount": "994",
-    "price": 120.99,
-    "priceBefore": 150.99,
-    "sold": "1257 vendidos",
-    "deliveryStatus": "Envio gratis"
+    "image": "img/4.webp",
+    "name": "LEVIS",
+    "description": "Polo Hypnotic Hombre",
+    "price": 39.95
   },
   {
     "id": 5,
-    "image": "img/5.jpg",
-    "name": "Sofá de tercipelo Vonanda",
-    "starCount": "1,559",
-    "price": 1500.99,
-    "priceBefore": 1890.99,
-    "sold": "2151 vendidos",
-    "deliveryStatus": ""
+    "image": "img/5.webp",
+    "name": "HYPNOTIC",
+    "description": "Polo Hypnotic Hombre",
+    "price": 29.95
   },
   {
     "id": 6,
-    "image": "img/6.jpg",
-    "name": "Luz de techo regulable moderna",
-    "starCount": "543",
-    "price": 890.99,
-    "priceBefore": 930.99,
-    "sold": "995 vendidos",
-    "deliveryStatus": "Envio gratis"
+    "image": "img/6.webp",
+    "name": "GZUK",
+    "description": "Polo Hypnotic Hombre",
+    "price": 39.95
   },
   {
     "id": 7,
-    "image": "img/7.jpg",
-    "name": "Auriculares inalámbricos",
-    "starCount": "1,411",
-    "price": 290.99,
-    "priceBefore": 320.99,
-    "sold": "1843 vendidos",
-    "deliveryStatus": "Envio gratis"
+    "image": "img/7.webp",
+    "name": "ONEILl",
+    "description": "Polo Hypnotic Hombre",
+    "price": 49.95
   },
   {
     "id": 8,
-    "image": "img/8.jpg",
-    "name": "Gabinete de almacenamiento",
-    "starCount": "335",
-    "price": 360.99,
-    "priceBefore": 390.99,
-    "sold": "758 vendidos",
-    "deliveryStatus": ""
+    "image": "img/8.webp",
+    "name": "RUSTY",
+    "description": "Polo Hypnotic Hombre",
+    "price": 29.95
+  },
+  {
+    "id": 9,
+    "image": "img/9.webp",
+    "name": "HYPNOTIC",
+    "description": "Jogger Hombre",
+    "price": 19.95
+  },
+  {
+    "id": 10,
+    "image": "img/10.webp",
+    "name": "MALABAR",
+    "description": "Jogger Hombre",
+    "price": 39.95
+  },
+  {
+    "id": 11,
+    "image": "img/11.webp",
+    "name": "AMC",
+    "description": "Jogger Hombre",
+    "price": 19.95
+  },
+  {
+    "id": 12,
+    "image": "img/12.webp",
+    "name": "LEVIS",
+    "description": "Jogger Hombre",
+    "price": 29.95
+  },
+  {
+    "id": 13,
+    "image": "img/13.webp",
+    "name": "HYPNOTIC",
+    "description": "Jogger Hombre",
+    "price": 39.95
+  },
+  {
+    "id": 14,
+    "image": "img/14.webp",
+    "name": "GZUK",
+    "description": "Jogger Hombre",
+    "price": 49.95
+  },
+  {
+    "id": 15,
+    "image": "img/15.webp",
+    "name": "ONEILl",
+    "description": "Jogger Hombre",
+    "price": 39.95
+  },
+  {
+    "id": 16,
+    "image": "img/16.webp",
+    "name": "RUSTY",
+    "description": "Jogger Hombre",
+    "price": 29.95
+  },
+  {
+    "id": 17,
+    "image": "img/17.webp",
+    "name": "MALABAR",
+    "description": "Jogger Hombre",
+    "price": 19.95
+  },
+  {
+    "id": 18,
+    "image": "img/18.webp",
+    "name": "AMC",
+    "description": "Jogger Hombre",
+    "price": 39.95
   }
 ]
