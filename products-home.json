@@ -7,7 +7,7 @@
     "price": 350.99,
     "priceBefore": 389.99,
     "sold": "2975 vendidos",
-    "delivery-status": "Envio gratis"
+    "deliveryStatus": "Envio gratis"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "price": 320.99,
     "priceBefore": 350.99,
     "sold": "2975 vendidos",
-    "delivery-status": "Envio gratis"
+    "deliveryStatus": "Envio gratis"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "price": 150.99,
     "priceBefore": 189.99,
     "sold": "2584 vendidos",
-    "delivery-status": "Envio gratis"
+    "deliveryStatus": "Envio gratis"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "price": 120.99,
     "priceBefore": 150.99,
     "sold": "1257 vendidos",
-    "delivery-status": "Envio gratis"
+    "deliveryStatus": "Envio gratis"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "price": 1500.99,
     "priceBefore": 1890.99,
     "sold": "2151 vendidos",
-    "delivery-status": ""
+    "deliveryStatus": ""
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "price": 890.99,
     "priceBefore": 930.99,
     "sold": "995 vendidos",
-    "delivery-status": "Envio gratis"
+    "deliveryStatus": "Envio gratis"
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "price": 290.99,
     "priceBefore": 320.99,
     "sold": "1843 vendidos",
-    "delivery-status": "Envio gratis"
+    "deliveryStatus": "Envio gratis"
   },
   {
     "id": 8,
@@ -77,6 +77,6 @@
     "price": 360.99,
     "priceBefore": 390.99,
     "sold": "758 vendidos",
-    "delivery-status": ""
+    "deliveryStatus": ""
   }
 ]
