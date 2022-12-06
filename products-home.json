@@ -2,7 +2,7 @@
   {
     "id": 1,
     "image": "img/1.jpg",
-    "name:": "Vestido de abrigo de mujer, negro",
+    "name": "Vestido de abrigo de mujer, negro",
     "star-count": "2,548",
     "price": 350.99,
     "price-before": 389.99,
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "image": "img/2.jpg",
-    "name:": "Zapatlos con cordones para hombre",
+    "name": "Zapatlos con cordones para hombre",
     "star-count": "2,548",
     "price": 320.99,
     "price-before": 350.99,
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "image": "img/3.jpg",
-    "name:": "Hombres de negro",
+    "name": "Hombres de negro",
     "star-count": "1,955",
     "price": 150.99,
     "price-before": 189.99,
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "image": "img/4.jpg",
-    "name:": "Suéter con capucha de punto ligero",
+    "name": "Suéter con capucha de punto ligero",
     "star-count": "994",
     "price": 120.99,
     "price-before": 150.99,
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "image": "img/5.jpg",
-    "name:": "Sofá de tercipelo Vonanda",
+    "name": "Sofá de tercipelo Vonanda",
     "star-count": "1,559",
     "price": 1500.99,
     "price-before": 1890.99,
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "image": "img/6.jpg",
-    "name:": "Luz de techo regulable moderna",
+    "name": "Luz de techo regulable moderna",
     "star-count": "543",
     "price": 890.99,
     "price-before": 930.99,
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "image": "img/7.jpg",
-    "name:": "Auriculares inalámbricos",
+    "name": "Auriculares inalámbricos",
     "star-count": "1,411",
     "price": 290.99,
     "price-before": 320.99,
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "image": "img/8.jpg",
-    "name:": "Gabinete de almacenamiento",
+    "name": "Gabinete de almacenamiento",
     "star-count": "335",
     "price": 360.99,
     "price-before": 390.99,
